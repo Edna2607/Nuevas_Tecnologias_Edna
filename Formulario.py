@@ -1,3 +1,5 @@
+#Python
+
 #FORMULARIO CON INFORMACION PERSONAL
 
 nombre = input("Ingrese su nombre: ")

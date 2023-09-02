@@ -3,6 +3,7 @@
 #las variables se utilizan directamente
 #no es necesario el ;
 
+#Inicio de Python
 print("Hello World")
 
 name = "Pepito"     #Esto es un String

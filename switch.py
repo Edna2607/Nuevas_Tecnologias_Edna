@@ -1,10 +1,8 @@
-
-
 """Generar un programa que permita hacer el registro e iniciar sesion todo dentro de un while debe imprimir 
 el menu usando la implementacion de= if / ifelse (selector multiple) 
-cuando inicie sesion que implemente la solucion del calculo de cuotas creada en el reto anterior"""
+cuando inicie sesion que implemente la solucion del calculo de cuotas creada en el reto anterior
 
-"""
+
 print("Bienvenido")
 print("1.Registro\n 2.Login\n 3.Salir\n")
 
@@ -68,7 +66,7 @@ def compras():
              num_cuotas -= 1
              print(f"Quedan {num_cuotas} cuotas por pagar")
           else:
-              print("El pago no es igual al valor de la cuota")"""
+              print("El pago no es igual al valor de la cuota") """
 
 #-------------------------------------------------------------
 
